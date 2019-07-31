@@ -1,0 +1,33 @@
+section {
+  padding: 12px;
+  flex-basis: 80%;
+  text-align: center;
+  & .content {
+    display: inline-block;
+    max-width: 1200px;
+  }
+  & ul {
+    display: inline-block;
+    text-align: left;
+  }
+}
+
+.inline-img {
+    display: inline-block
+}
+
+.homepage--content {
+  font-size: 20px;
+}
+
+.homepage--link__big {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.odkazy--table {
+    border: 1px solid black;
+    & td {
+        border: 1px solid black;
+    }
+}

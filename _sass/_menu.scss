@@ -1,0 +1,17 @@
+nav {
+  text-align: center;
+  border-right:  4px outset #ddd;
+  flex-basis: 20%;
+  height: 100%;
+
+  & a {
+    background-color: #ddd;
+    padding-top: 25px;
+    margin: auto;
+    margin-top: 24px;
+    display: block;
+    width: 150px;
+    height: 48px;
+    border: 4px outset #888;
+  }
+}

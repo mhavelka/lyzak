@@ -1,0 +1,21 @@
+---
+---
+@import "menu";
+@import "header";
+@import "content";
+@import "footer";
+
+body {
+  margin: 0;
+  background-color: aqua;
+  font-size: 20px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.center {
+  text-align: center;
+}
