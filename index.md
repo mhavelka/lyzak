@@ -9,7 +9,7 @@ Nostalgický výlet do našich školních let, kdy jsme nosily šušťáky, hrá
 Vraťte se s námi do svého mládí pozdních 90-tých let!
 
 **Kdy:** 6.-9.2.2020 (čtvrtek-neděle)  
-**Kde:** Mohelnice a Jeseník
+**Kde:** Jeseník a okolí
 
 ![snowman](/assets/img/snowman.gif)
 {: class="inline-img"}
@@ -17,15 +17,17 @@ Vraťte se s námi do svého mládí pozdních 90-tých let!
 {: class="inline-img" style="margin-left:200px"}
 
 ## Co vás čeká:
-* Opravdový školní výlet s přesunem autobusem, horskou chatou a lyžováním.
+* Lyžák se vším všudy, který začíná už v autobusu.
 * Návrat do doby přelomu základní a střední školy, kdy jsme všichni hledali kdo jsme, kde je naše místo v kolektivu a kdo jsou naši skuteční kamarádi.
-* Hromada dělání neplechy jak na svahu tak na chatě. Protože prča musí být!
+* Dělání neplechy jak na svahu tak na chatě. Protože prča musí být!
 * Hromada trapných momentů pro vaše postavy, které objevují taje teenegerské ne-romantiky.
+
 
 ## Jak se to bude hrát:
 * Hra bude výrazně transparentní. Počítáme s tím, že postavy si budete dovytvářet během workshopů, budete znát dopředu hlavní příběhový oblouk, kam chceme hru vést, a po cestě nepotkáte mnoho tajemství (spíše žádné).
 * Hra to bude civilní, plná zábavných aktivit, a ačkoliv necílíme na skoro žádná těžká témata, nemůžeme zaručit, že dětský kolektiv některých z vás nedovede k slzám.
-* Alkoholu a erotiky bude na larpu poskrovnu. Asi tak podobně málo, jak jste ji měli vy, když vám bylo 14! Ale trochu jako jo…
+* Larp samozřejmě obsahuje alkohol a lehkou erotiku. Ale vzhledem k věku postav je nejpravděpodobnějším scénářem, že se trapnost situace, kdy jste dívce nedokázali rozepnout podprsenku utopíte v posledním hltu rumu, který na vás zbyl.
+
 
 ![snowing](/assets/img/snowing.gif)
 {: class="inline-img"}
@@ -41,7 +43,8 @@ Vraťte se s námi do svého mládí pozdních 90-tých let!
 ## Nejezděte, pokud:
 * Očekáváte, že vám dodáme obsahově plnou postavu.
 * Chcete seriózní hluboké a korektní zpracování společenských témat mladých lidí.
-* Vadí vám jakýkoli fyzický kontakt s jinými hráči.  
+* Vám vadí fyzický kontakt s jinými hráči.
+* Si nejste schopní vzít na čtvrtek a pátek volno. Příprava na hru začíná ve čtvrtek a jen cesta vám pravděpodobně zabere několik hodin.
 
 ## Fakt se tam jako bude lyžovat?
 * Ano. Pokud bude sníh :)
