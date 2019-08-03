@@ -1,0 +1,19 @@
+---
+layout: default
+permalink: /autori/
+---
+
+<table class="autori--table">
+    {% for author in site.data.authors %}
+    <tr>
+        <td class="autori--table__image"><img src="/assets/img/authors/{{author.image}}" alt=""></td>
+        <td>
+            <p>
+                <b>{{author.name}} ({{author.age}})</b>
+            </p>
+            {{author.description}}
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+

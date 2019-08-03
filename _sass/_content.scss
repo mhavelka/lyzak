@@ -13,7 +13,7 @@ section {
 }
 
 .inline-img {
-    display: inline-block
+  display: inline-block;
 }
 
 .homepage--content {
@@ -21,19 +21,32 @@ section {
 }
 
 .homepage--link__big {
-    font-size: 40px;
-    font-weight: bold;
+  font-size: 40px;
+  font-weight: bold;
 }
 
-.odkazy--table {
+table {
+  border: 1px solid black;
+  & td {
     border: 1px solid black;
-    & td {
-        border: 1px solid black;
-    }
+  }
 }
 
+.autori--table {
+  text-align: left;
+  & td {
+    padding: 12px;
+  }
+}
+
+.autori--table__image {
+  text-align: center;
+  & img {
+    height: 200px;
+  }
+}
 
 .guestbook {
-    width: 1000px;
-    height: 1000px;
+  width: 1000px;
+  height: 1000px;
 }
