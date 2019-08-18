@@ -6,9 +6,27 @@
         "description": "Hodně čte, kreslí, píše vlastní povídky a poslouchá metal. Její nejoblíbenější kapely jsou Nightwish a HIM. O larpech zatím nemá zdání, protože tráví poslední rok na základní škole, kde nemá moc kamarádů, kteří by ji rozuměli. Je dcera učitelky, šprtka a má nehezké akné, takže není oblíbená. Těší se, až vypadne na gympl a pak z ní bude archeoložka."
     },
     {
+        "name": "Čiki",
+        "age": "15",
+        "image": "ciki.jpg",
+        "description": "S cigárama přestal v devíti, ale začíná objevovat kouzlo kormy. Na zdi mu visí zvlněnej plakát Spice Girls a novej plakát s Catherine Zetou-Jones. Poslouchá Blind Guardian a Asonanci a po nocích, kdy jsou rodiče v práci, sjíždí horory. Do školy chodí pořád pozdě, protože neustále zaspává. Vyniká v literatuře a psaní omluvenek. Skládá milostnou poezii a má pocit, že se tím bude živit. Při poflakování po parcích na sídlišti si dává bacha, aby nesed na stříkačku."
+    },
+    {
         "name": "Maník",
         "age": "16",
         "image": "manik.jpg",
         "description": "Zajímá se o počítače, chtěl by být síťařem. Hraje počítačové hry (např. GTA: San Andreas nebo Battlefield). Jeho image je punk rock, poslouchá Sum41, Blink182 a Green Day. Jezdí na skejtu (nebo se aspoň snaží) a na koloběžce na U rampě.<br> Je zakladatel klubu <a href='http://korh.cz' target='_blank'>KoRH</a> s nimiž hraje Dračí Doupě a chodí na Červeňák hrát larp. Larpy by chtěl jednou i organizovat."
+    },
+    {
+        "name": "Fáňa",
+        "age": "15",
+        "image": "fana.jpg",
+        "description": "Dříve trávila většinu času u koní, ale to jí teď přestalo bavit. Chce si najít nové kamarády. Proto začala chodit do divadelního kroužku, i když se hodně stydí. Kromě toho taky hodně čte a sní o tom, jaké to bude, až vypadne od rodičů. Nedávno tajně zkoušela s kamarádkou kouřit za obchodem a bylo to hustý, ale bojí se, že máma přijde na to, že jí tajně bere cigarety a bude mít průšvih. Poslouchá Maroon 5 a Enyu a vůbec netuší, co jsou to larpy."
+    },
+    {
+        "name": "Killien",
+        "age": "14",
+        "image": "killien.jpg",
+        "description": ""
     }
 ]
