@@ -28,18 +28,6 @@ Vraťte se s námi do svého mládí pozdních 90-tých let!
 * Hra to bude civilní, plná zábavných aktivit, a ačkoliv necílíme na skoro žádná těžká témata, nemůžeme zaručit, že dětský kolektiv některých z vás nedovede k slzám.
 * Larp samozřejmě obsahuje alkohol a lehkou erotiku. Ale vzhledem k věku postav je nejpravděpodobnějším scénářem, že se trapnost situace, kdy jste dívce nedokázali rozepnout podprsenku utopíte v posledním hltu rumu, který na vás zbyl.
 
-
-![snowing](/assets/img/snowing.gif)
-{: class="inline-img"}
-![snowing](/assets/img/snowing.gif)
-{: class="inline-img"}
-![snowing](/assets/img/snowing.gif)
-{: class="inline-img"}
-![snowing](/assets/img/snowing.gif)
-{: class="inline-img"}
-![snowing](/assets/img/snowing.gif)
-{: class="inline-img"}
-
 ## Nejezděte, pokud:
 * Očekáváte, že vám dodáme obsahově plnou postavu.
 * Chcete seriózní hluboké a korektní zpracování společenských témat mladých lidí.
