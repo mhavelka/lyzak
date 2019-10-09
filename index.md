@@ -5,48 +5,70 @@ title: Lyžák!
 
 # Larp o vašem lyžáku.
 
-Nostalgický výlet do našich školních let, kdy jsme nosily šušťáky, hráli flašku po večerce, cítili se trapně na dydžině a padali do sněhu.
-Vraťte se s námi do svého mládí pozdních 90-tých let!
+Nostalgickej vejlet do školních let, kdy jsme nosili šusťáky, hráli flašku po večerce, cejtili se trapně na dydžině a dostávali ledovou sprchu na svahu i mimo něj..
+Vraťte se s náma do svýho mládí a okoštujte devadesátky!
 
 **Kdy:** 6.-9.2.2020 (čtvrtek-neděle)  
-**Kde:** Jeseník a okolí
+**Kde:** Severní Morava (přesné místo srazu včas zveřejníme)
 
-![snowman](/assets/img/snowman.gif)
-{: class="inline-img"}
-![snowman](/assets/img/snowman.gif)
-{: class="inline-img" style="margin-left:200px"}
+<div style="padding: 12px 0;">
+    <a href="https://larpovadatabaze.cz/larp/prom/cs/47950" target="_blank">
+        <img class="inline-img banner" src="/assets/img/banners/prom_pixel.jpg" alt="prom" />
+    </a>
+    <a href="https://larpovadatabaze.cz/larp/skolni-vylet/cs/42250" target="_blank">
+        <img class="inline-img banner" style="margin-left:100px" src="/assets/img/banners/vylet_pixel.jpg" alt="vylet" />
+    </a>
+    <a href="https://larpovadatabaze.cz/larp/skola/cs/31" target="_blank">
+        <img class="inline-img banner" style="margin-left:100px" src="/assets/img/banners/skola_pixel.jpg" alt="skola" />
+    </a>
+</div>
 
 ## Co vás čeká:
-* Lyžák se vším všudy, který začíná už v autobusu.
-* Návrat do doby přelomu základní a střední školy, kdy jsme všichni hledali kdo jsme, kde je naše místo v kolektivu a kdo jsou naši skuteční kamarádi.
-* Dělání neplechy jak na svahu tak na chatě. Protože prča musí být!
-* Hromada trapných momentů pro vaše postavy, které objevují taje teenegerské ne-romantiky.
+* Lyžák se vším všudy, kterej začíná už v autobusu.
+* Návrat na přelom základky a střední školy, kdy jsme všichni hledali, kdo jsme, kde je naše místo v kolektivu a kdo jsou naši skutečný kámiči.
+* Dělání neplechy a bordelu jak na svahu, tak na chatě. Protože prča musí bejt!
+* Hromada trapnejch momentů pro tvou postavu při vobjevování zákoutí teenegerský (ne)romantiky.
+
 
 
 ## Jak se to bude hrát:
-* Hra bude výrazně transparentní. Počítáme s tím, že postavy si budete dovytvářet během workshopů, budete znát dopředu hlavní příběhový oblouk, kam chceme hru vést, a po cestě nepotkáte mnoho tajemství (spíše žádné).
-* Hra to bude civilní, plná zábavných aktivit, a ačkoliv necílíme na skoro žádná těžká témata, nemůžeme zaručit, že dětský kolektiv některých z vás nedovede k slzám.
-* Larp samozřejmě obsahuje alkohol a lehkou erotiku. Ale vzhledem k věku postav je nejpravděpodobnějším scénářem, že se trapnost situace, kdy jste dívce nedokázali rozepnout podprsenku utopíte v posledním hltu rumu, který na vás zbyl.
+* Hra bude dost transparentní. Počítáme s tím, že postavu si budeš dolaďovat během workshopů, přičemž budeš znát dopředu hlavní dějovej oblouk, kam chcem hru víst, a po cestě nepotkáš větší tajemství, než že se ti ten honimír Franta snaží přebrat holku.
+* Lyžák vyžaduje civilní hraní a nabízí hlavně zábavu v podobě drobnejch aktivit ve vlastní režii hráčů. Ačkoliv necílíme na skoro žádný těžký témata, nemůžem zaručit, že tě návrat do dětskejch let nedovede k slzám.
+* Larp samozřejmě obsahuje ňákej chlast a lehkou erotiku. Ale vzhledem k věku tvý postavy představuje nejpravděpodobnější scénář, že se trapnost situace, kdys holce nedokázal rozepnout podprsenku, utopíš v posledním hltu tuzemáku, kterej na tebe zbyl.
 
-## Nejezděte, pokud:
-* Očekáváte, že vám dodáme obsahově plnou postavu.
-* Chcete seriózní hluboké a korektní zpracování společenských témat mladých lidí.
-* Vám vadí fyzický kontakt s jinými hráči.
-* Si nejste schopní vzít na čtvrtek a pátek volno. Příprava na hru začíná ve čtvrtek a jen cesta vám pravděpodobně zabere několik hodin.
+
+## Nejezdi, pokud:
+* Očekáváš, že ti dodáme plnej skript na dva dny a vymazlenou postavu na pět stránek textu.
+* Toužíš po objektivnim ponoru do hlubokejch témat, který řešej teenageři.
+* Ti vadí fyzickej kontakt s jinejma hráčema.
+* Si nejseš schopnej/á vzít na čtvrtek a pátek volno. Příprava na hru začíná (bezpodmínečně) ve čtvrtek a jen cesta ti pravděpodobně sežere několik hodin.
+* Seš piča.
 
 ## Fakt se tam jako bude lyžovat?
-* Ano. Pokud bude sníh :)
-* Umět lyžovat ale není podmínka pro účast na larpu. Když to neumíte, tak vás to naučíme. Od toho přece lyžák je!
-* Vybavení pro lyžování (šusťáky, lyže a lyžařky) si musíte zabezpečit sami.
+* Si piš. Pokud bude sníh :)
+* Umět lyžovat ale není podmínka pro účast na larpu. Jestli to neumíš, tak tě to naučíme. Vod toho přece lyžák je!
+* Vybavení pro lyžování (šusťáky, lyže a lyžařky) si musíš zavobstarat sám/sama.
 
 ## Chci! S kým se mám vyspat, abych se tam dostal?!
-* Vydrž, Prťka, vydrž. Přihlašování spustíme v září.
-* Přihlašovat se budete moci vyplněním dotazníku, pomocí kterého hráče vybereme.
-* Již teď přiznáváme bez mučení, že mezi hráči budeme volit kombinaci, která bude z hlediska jejich schopností a preferencí (např. lyžování, rapování, nebo hraní Dračího doupěte) nejlépe kompatibilní.
-
-Aby ti přihlašování neuniklo, sleduj nás na:
-
-[Facebooku](https://www.facebook.com/Ly%C5%BE%C3%A1k-347695455890116/){:target="_blank"}!
-{: class="homepage--link__big"}
+* Vydrž, Prťka, vydrž. Přihlášky spustíme v říjnu a nebude to “kdo dřív přijde, ten dřív zaskóruje”, tak neboj!
+* Přihlašovat se budeš moct vyplněním dotazníku, pomocí kterýho hráče vyberem.
+* Při výběru hráčů budem mezi přihlášenejma volit kombinaci, která bude z hlediska jejich preferencí (nebo schopností) nejlíp pasovat.
 
 
+Aby ti přihlašování neuteklo, sleduj nás na <span style="text-decoration: line-through;">xChatu</span>… teda na Fejsbíčku!
+
+<div class=".omepage--link__big--wrapper">
+    <div class="homepage--link__big">
+        <a href="https://www.facebook.com/Ly%C5%BE%C3%A1k-347695455890116/" target="_blank">
+            Facebook
+        </a>
+    </div>
+</div>
+
+## Lyžák pro tebe peče Brněnská larpová kavárna:
+* Petr “Čiki” Kuběnský
+* Lujza Kotryová
+* Michal “Maník” Havelka
+* Hana Kovářová
+* Silvia Divékyová
+* Zbyněk “Killien” Štajer
