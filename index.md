@@ -58,11 +58,9 @@ Vraťte se s náma do svýho mládí a okoštujte devadesátky!
 Aby ti přihlašování neuteklo, sleduj nás na <span style="text-decoration: line-through;">xChatu</span>… teda na Fejsbíčku!
 
 <div class=".omepage--link__big--wrapper">
-    <div class="homepage--link__big">
         <a href="https://www.facebook.com/Ly%C5%BE%C3%A1k-347695455890116/" target="_blank">
-            Facebook
+            <img class="homepage--link__big" src="/assets/img/facebook_pixel.jpg" alt="Facebook link"/>
         </a>
-    </div>
 </div>
 
 ## Lyžák pro tebe peče Brněnská larpová kavárna:
