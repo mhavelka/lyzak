@@ -25,8 +25,14 @@
     },
     {
         "name": "Killien",
-        "age": "14",
+        "age": "16",
         "image": "killien.jpg",
-        "description": ""
+        "description": "Právě si zahrál svůj druhý larp a myslí, že je načase nadizajnovat svůj vlastní. Může za to Čiki, neb mu z nějakého důvodu asi věří nebo mu se mu už ten Asterion dělat nechtělo. Mimo to studuje pravidla DrD 1.6, ačkoliv je s nikým nehraje. Posloucháa Vypsanou Fixu, Volanty, Linkin Park a Avril Lavigne - jež vlastní originální CD (avril a linkiny). Na to, že pochází z Rožnova, do školy chodí do Valmezu (na 3. nejstarší české gymnázium v čr) zbytečně moc času tráví v Brně, Třebíči a Znojmě, za což můžou lidi z iKlubovny a Halahoje."
+    },
+    {
+        "name": "Silvia",
+        "age": "14",
+        "image": "silvia.jpg",
+        "description": "Taková tá tichá myška, která do noci čte knížky a sní o tom, že je jenom škaredé káčatko, které se jednoho dne probudí a bude krásnou labutí. Hejtuje všechny krasotinky a krasavce, ale tajně by se mezi ně chtěla infiltrovat. Taky si však někdy představuje, že bude tajnou agentkou, nebo to aspoň dotáhne na policejní akademií a všem těm lidem, co ji kdy nazvali tlustým prasátkem, nakope do zadku. Zatím však o tom jenom píše do svého zápisníku na klíček, který nosí kolem krku. Někdy se snaží hrát na drsňačku a tak se už několikrát stalo, že pozvracela chodník, protože zkoušela pít alkoholy pochybné kvality."
     }
 ]
