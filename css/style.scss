@@ -1,5 +1,6 @@
 ---
 ---
+
 @import "menu";
 @import "header";
 @import "content";
@@ -19,4 +20,14 @@ body {
 
 .center {
   text-align: center;
+}
+
+section {
+  & .justify {
+    text-align: justify;
+    max-width: 960px;
+    & h1 {
+      text-align: center;
+    }
+  }
 }

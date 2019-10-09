@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /hra/
-align: left
+align: justify
 ---
 # Hra
 

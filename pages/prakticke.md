@@ -1,13 +1,13 @@
 ---
 layout: default
 permalink: /prakticke/
-align: left
+align: justify
 ---
 
 # Praktické
 
-**Přihlašování:** od 10. do 31. října 2019 (pořadí přihlášených nerozhoduje)
-**Cena:** 3 500,-
+**Přihlašování:** od 10. do 31. října 2019 (pořadí přihlášených nerozhoduje)  
+**Cena:** 3 500,-  
 * V ceně není zahrnutý lyžařský vybavení (to je ve tvý režii), naopak je tam zahrnutý ubytko, autobus i skipass. 
 * Jestli seš vybranej/á, se dozvíš 7. 11. a rovnou ti dáme aji vědět, koho hraješ. Cenu platí jenom ten, kdo je vybranej a to nejpozději do konce listopadu. Místa neplatičů budou poté obsazována dalšíma vhodnejma kandidátama.
 * Zaplacenej poplatek nevracíme. Prašule ti vrátí náhradník, kterej zaplní tvoje místo. Propojení s náhradníkem zařídíme my.

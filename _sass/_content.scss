@@ -59,6 +59,11 @@ table {
   height: 1000px;
 }
 
+.devadesatky--image__wrapper {
+  text-align: center;
+}
+
 .devadesatky--image {
   max-height: 300px;
+  display: inline-block;
 }
