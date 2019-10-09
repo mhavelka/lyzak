@@ -9,10 +9,10 @@ Kdybysme měli sfouknout popis Lyžáku v pár slovech, použili bysme tyhle: tr
 
 Lyžák je o drobnejch dobrodružstvích a srandičkách, o tápání a samo o trapasech, spíš než o velkým příběhu. Je to sandbox, kterej ti dá hodně volnosti ve vytváření herního obsahu. Nečekej velkej skript, ani několikastránkový popisy postav. Od nás se dopředu dozvíš, kam má hra směřovat a jak by měla vyústit, ale cestu ve spolupráci s ostatníma najít sám/sama. Jestli v jejím průběhu budeš hrát dračák, pokoušet se propašovat za zády učitelů chlast nebo zkusíš políbit svůj idol, je na tobě.
 
-![snowman](/assets/img/snowman.gif)
-{: class="inline-img"}
-![snowman](/assets/img/snowman.gif)
-{: class="inline-img" style="margin-left:200px"}
+<div class="devadesatky--image__wrapper">
+    <img class="img-responsive devadesatky--image" src="/assets/img/snowman.gif" alt="Mixtape">
+    <img style="margin-left:200px" class="img-responsive devadesatky--image" src="/assets/img/snowman.gif" alt="Mixtape">
+</div>
 
 ## Postavy
 Lyžák je larp pro třicet hráčskejch postav (15 kluků a 15 holek), z nichž všichni hrajou studenty 9. třídy základní školy. Dospělácký role (učitelé, instruktor na svahu, barman atd.) jsou hraný organizátorama.
