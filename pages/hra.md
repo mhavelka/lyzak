@@ -6,6 +6,9 @@ align: justify
 
 # Hra
 
+<a href="http://smich-mister.blog.cz/0905/fotoroman-0-1?fbclid=IwAR2MIH6L2R8gy-GTbozLuECkkVNILJ0bXW5K0VE_9jbEsguRsIFAy785jWA" target="_blank">
+    <img class="img-responsive" style="float: right; margin-left: 24px;" src="/assets/img/game/fotoroman.jpg" alt="Fotoromán" />
+</a>
 Kdybysme měli sfouknout popis Lyžáku v pár slovech, použili bysme tyhle: trapnost, zakázaný ovoce, škobrtání a nostalgie.
 
 Lyžák je o drobnejch dobrodružstvích a srandičkách, o tápání a samo o trapasech, spíš než o velkým příběhu. Je to sandbox, kterej ti dá hodně volnosti ve vytváření herního obsahu. Nečekej velkej skript, ani několikastránkový popisy postav. Od nás se dopředu dozvíš, kam má hra směřovat a jak by měla vyústit, ale cestu si musíš ve spolupráci s ostatníma najít sám/sama. Jestli v jejím průběhu budeš hrát dračák, pokoušet se propašovat za zády učitelů chlast nebo zkusíš políbit svůj idol, je na tobě.
@@ -14,12 +17,6 @@ Lyžák je o drobnejch dobrodružstvích a srandičkách, o tápání a samo o t
 
 Lyžák je larp pro třicet hráčskejch postav (15 kluků a 15 holek), z nichž všichni hrajou studenty 9. třídy základní školy. Dospělácký role (učitelé, instruktor na svahu, barman atd.) jsou hraný organizátorama.
 Postavy budeme přiřazovat na základě tvejch odpovědí v přihláškovým formuláři. Trochu budem přihlížet i ke konkrétním dovednostem, jako je třeba hraní “Stánků” na kytaru nebo znalost dračáku, ale to je jen drobný doplňující vodítko.
-
-<div class="image--center__wrapper">
-    <a href="https://www.youtube.com/watch?v=otCpCn0l4Wo" target="_blank">
-            <img class="img-responsive center--image" src="/assets/img/game/can-touch-this.jpg" alt="Nedotkneš se mě" />
-    </a>
-</div>
 
 ## Hra třídy a skupin
 
@@ -30,15 +27,15 @@ Lyžák je hodně o hraní v partě. Může jít o skupinu v třídní hierarchi
 
 Ze svý podstaty je Lyžák spíš humornej larp. Není to ale přehrávaná parodie, snahou je bejt co nejvíc civilní, co to jde. Zároveň je potřeba říct, že život týnejdžra stojí na vymezování se. Součástí zmíněný civilnosti je zkrátka i to, že každej se občas chová jako kokot. Zkus se při přípravě na roli myslet na to, že nebudeš hrát rozumnýho dospělýho člověka, ale mladistvýho, kterej je občas na někoho zlej jenom proto, že může, a protože mu to vynese nějakej fejm.
 
+<div class="image--center__wrapper">
+    <a href="https://www.youtube.com/watch?v=otCpCn0l4Wo" target="_blank">
+            <img class="img-responsive center--image" src="/assets/img/game/can-touch-this.jpg" alt="Nedotkneš se mě" />
+    </a>
+</div>
+
 ## Play to lift
 
 Skupiny, o kterejch jsme mluvili, sloužej zároveň k ujasnění, kdo si jak stojí v potravním žebříčku. V průběhu hry dojde i k nějakejm proměnám toho, která parta je v hierarchii nahoře a která dole. Je ale dobrý si od začátku uvědomovat, kde je tvý místo, a hrát na ostatní v souladu s tím. Pokud má někdo pověst grázla nebo krále třídy, měl/a bys mu svým jednáním pomáhat tenhle jeho status zviditelňovat i pro ostatní.
-
-<div class="image--center__wrapper">
-    <a href="https://www.youtube.com/watch?v=1A9-XyS0yyI" target="_blank">
-            <img class="img-responsive center--image" src="/assets/img/game/cago-belo.jpg" alt="Čágo Bélo šilenci" />
-    </a>
-</div>
 
 ## Hlavní dějový oblouky
 

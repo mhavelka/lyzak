@@ -18,6 +18,12 @@ align: justify
 
 Na úvodní workshopy se sejdem v zatím nejmenovaným městě na severní Moravě, kde strávíme i čtvrteční noc. V pátek ráno začne hra nástupem do autobusu, kterej nás odveze na lyžařskou chatu, na který se bude odehrávat zbytek larpu. Konečná je v sobotu večer a navážem nezbytnou poherní párty. Odjezd z chaty je naplánovanej na neděli dopoledne (bus, který nás doveze do civilizace k autům a spojům, zajistíme).
 
+<div class="image--center__wrapper">
+    <a href="https://www.youtube.com/watch?v=1A9-XyS0yyI" target="_blank">
+            <img class="img-responsive center--image" src="/assets/img/practical/cago-belo.jpg" alt="Čágo Bélo šilenci" />
+    </a>
+</div>
+
 ## Jídlo, chlast a cíga
 Jídlo je na chatě zařízený od pátečního oběda. Čili páteční snídaně je ve tvý režii. Během workshopů budem podávat véču v podobě studený kuchyně. Končíme nedělní snídaní, kterou ještě dostaneš na chatě.
 Jídlo na chatě bude ve dvou variantách: pro vegoše, aji pro masožrouty. Pokud máš nějaký speciální stravovací omezení (bezlepkový, alergie atd.), napiš to do dotazníku při přihlašování.
@@ -28,6 +34,12 @@ Kouření na chatě je zakázaný. Mimo chatu je to cajk. Pokud se ti to hodí d
 
 ## Jak se chovat na chatě
 Kromě orgů se budou na chatě vyskytovat i další lidi. Přinejmenším tam budou majitelé a nějaká obsluha, co vaří a roznáší jídlo, možná i nějaký hosti mimo nás (ale těch spíš minimum, protože chata není zas tak velká). Základní rada zní: nechovej se jako debžot - tj. nic neznič a dělej jen přiměřenej bordel odpovídající věku postav (oni tě stejně učitelé srovnaj do latě, když budeš dělat větší bugr). Učitelé ti řeknou, jakej program tě čeká a je základní pravidlo ty společný části programu (např. lyžování na svahu) neminout. Ve volným čase ale můžeš chodit i po blízkým okolí chaty a dělat tam, co uznaš za vhodný. Podrobnosti pořešíme během workshopů, ale celej Lyžák jedeš na vlastní nebezpečí, tak si na to mysli, vole.
+
+<div class="image--center__wrapper">
+    <a href="https://www.youtube.com/watch?v=UeXKjLl-9Do" target="_blank">
+            <img class="img-responsive center--image" src="/assets/img/practical/hovna.jpg" alt="TV Hovna" />
+    </a>
+</div>
 
 ## Jak je to s lyžováním
 Na svahu, pokud klapne počasí, budeme za dva herní dny dvakrát (pokaždé na 3-4 hodiny). Svah je relativně krátkej a žádnej velkej krpál a je u něj i malej vlek. Z toho plyne, že lyžování berem hlavně jako herní prvek, kterej vytváří zajímavej herní obsah. 
