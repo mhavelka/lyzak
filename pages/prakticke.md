@@ -16,7 +16,7 @@ align: justify
 
 **Konec:** 9. 2. 2020 dopoledne na chatě Čertovy kameny poblíž Jeseníku
 
-Na úvodní workshopy se sejdem v zatím nejmenovaným městě na severní Moravě, kde strávíme i čtvrteční noc. V pátek ráno začne hra nástupem do autobusu, kterej nás odveze na lyžařskou chatu, na který se bude odehrávat zbytek larpu. Konečná je v sobotu večer a navážem nezbytnou poherní párty. Odjezd z chaty je naplánovanej na neděli dopoledne (o konkrétním způsobu, jak se dostaneme do civilizace k autům a spojům, budeme informovat).
+Na úvodní workshopy se sejdem v zatím nejmenovaným městě na severní Moravě, kde strávíme i čtvrteční noc. V pátek ráno začne hra nástupem do autobusu, kterej nás odveze na lyžařskou chatu, na který se bude odehrávat zbytek larpu. Konečná je v sobotu večer a navážem nezbytnou poherní párty. Odjezd z chaty je naplánovanej na neděli dopoledne (bus, který nás doveze do civilizace k autům a spojům, zajistíme).
 
 ## Jídlo, chlast a cíga
 Jídlo je na chatě zařízený od pátečního oběda. Čili páteční snídaně je ve tvý režii. Během workshopů budem podávat véču v podobě studený kuchyně. Končíme nedělní snídaní, kterou ještě dostaneš na chatě.

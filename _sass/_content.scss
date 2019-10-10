@@ -17,8 +17,8 @@ section {
 }
 
 .banner {
-  height: 40px;
-  width: 120px;
+  height: 80px;
+  width: 240px;
 }
 
 .homepage--content {
@@ -59,11 +59,12 @@ table {
   height: 1000px;
 }
 
-.devadesatky--image__wrapper {
+.image--center__wrapper {
   text-align: center;
 }
 
-.devadesatky--image {
+.center--image {
   max-height: 300px;
+  max-width: 600px;
   display: inline-block;
 }
