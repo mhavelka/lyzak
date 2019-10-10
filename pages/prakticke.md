@@ -25,7 +25,7 @@ Na úvodní workshopy se sejdem v zatím nejmenovaným městě na severní Morav
 </div>
 
 ## Jídlo, chlast a cíga
-Jídlo je na chatě zařízený od pátečního oběda. Čili páteční snídaně je ve tvý režii. Během workshopů budem podávat véču v podobě studený kuchyně. Končíme nedělní snídaní, kterou ještě dostaneš na chatě.
+Jídlo je na chatě zařízený od pátečního oběda. Snídani na pátek si přivez vlastní (ideálně takovou jako od mámy) - zbaštit ji můžeš v autobuse. Během workshopů budem podávat véču v podobě studený kuchyně. Končíme nedělní snídaní, kterou ještě dostaneš na chatě.  
 Jídlo na chatě bude ve dvou variantách: pro vegoše, aji pro masožrouty. Pokud máš nějaký speciální stravovací omezení (bezlepkový, alergie atd.), napiš to do dotazníku při přihlašování.
 
 Chlast se do hry dostává jenom skrz organizátory. Pokud něco pašuješ v kufru, tak danou flašku dostaneš před začátkem hry. Na chatě je bar, kterej funguje herně a bude za ním stát někdo z orgů. Pokud na něm nebo na komkoli jiným tvoje postava vyškemrá nějakou flašku, záleží čistě na tom, jak si budeš víst při vyjednávání. Pokud si chceš dovézt flašku na čtvrteční večer po workshopech, nic proti tomu nemáme, pokud se vyspíš a nezleješ se jak doga. Na larp už ji ale nevoz. Na sobotní párty už bude bar normálně otevřenej a můžeš si tam dát cokoli bez omezení, pokud to za sebe zacvakáš.
