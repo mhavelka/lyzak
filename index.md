@@ -69,5 +69,4 @@ Aby ti přihlašování neuteklo, sleduj nás na <a href="https://www.hofyland.c
 * Lujza Kotryová
 * Michal “Maník” Havelka
 * Hana Kovářová
-* Silvia Divékyová
 * Zbyněk “Killien” Štajer
