@@ -25,7 +25,10 @@ Lyžák je hodně o hraní v partě. Může jít o skupinu v třídní hierarchi
 
 ## Styl hraní
 
-Ze svý podstaty je Lyžák spíš humornej larp. Není to ale přehrávaná parodie, snahou je bejt co nejvíc civilní, co to jde. Zároveň je potřeba říct, že život týnejdžra stojí na vymezování se. Součástí zmíněný civilnosti je zkrátka i to, že každej se občas chová jako kokot. Zkus se při přípravě na roli myslet na to, že nebudeš hrát rozumnýho dospělýho člověka, ale mladistvýho, kterej je občas na někoho zlej jenom proto, že může, a protože mu to vynese nějakej fejm.
+Ze svý podstaty je Lyžák spíš odlehčenej larp. Není to ale přehrávaná parodie, snahou je bejt co nejvíc civilní, co to jde. Zároveň je potřeba říct, že život týnejdžra stojí na vymezování se. Součástí zmíněný civilnosti je zkrátka i to, že každej se občas chová jako kokot. Zkus se při přípravě na roli myslet na to, že nebudeš hrát rozumnýho dospělýho člověka, ale mladistvýho, kterej je občas na někoho zlej jenom proto, že může, a protože mu to vynese nějakej fejm.
+
+Nehezký věci, jako když tě někdo ztrapní nebo odmítne, musej mít samozřejmě nějaký dopady. Dospívání je období rozjitřenejch emocí, kde každá sranda někoho nakonec bolí. To je kruciálně důležitý zachovat, aby ten teenage feel byl kompletní a nepřepíčenej do parodie. Prostě věci, nad kterýma dneska mávnete rukou, prožívají děcka, pro který je pocit uznání ve třídě vším, úplně jinak. Hra nemá za cíl někoho zbleedovat, ale dramaticky odehrát, že je někdo nešťastnej, je stěžejní (nejenom pro mechaniku krizí).
+
 
 <div class="image--center__wrapper">
     <a href="https://www.youtube.com/watch?v=otCpCn0l4Wo" target="_blank">
