@@ -10,6 +10,9 @@ section {
     display: inline-block;
     text-align: left;
   }
+  & .content--wide {
+    max-width: 100%;
+  }
 }
 
 .inline-img {
@@ -52,6 +55,10 @@ table {
   & img {
     height: 200px;
   }
+}
+
+.clothes--img {
+  width: 728px;
 }
 
 .guestbook {
