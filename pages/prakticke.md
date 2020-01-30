@@ -23,7 +23,6 @@ Na místo se dá dostat jak vlakem, tak autem. K dispozici máme cca 10 parkovac
 
 ## Jídlo, chlast a cíga
 Během workshopů budem podávat véču v podobě studený kuchyně, ale zkus prosím stihnout čtvrteční oběd před srazem (příp. si vezmi sváču).  
-Snídáni na pátek si prosím přivez vlastní (ideálně takovou jako od mámy) - zbaštit ji můžeš v autobuse.  
 Jídlo je na chatě zařízený od pátečního oběda do nedělní snídaně.  
 
 Jídlo na chatě bude ve dvou variantách: pro vegoše, aji pro masožrouty. Pokud máš nějaký speciální stravovací omezení (bezlepkový, alergie atd.), měli bychom to vědět z dotazníku.
@@ -54,7 +53,6 @@ Na svahu, pokud klapne počasí, budeme za dva herní dny dvakrát (pokaždé na
   * 1x (aspoň) oblečení dovnitř do chaty
   * 1x hygienický potřeby
   * 1x teplý oblečení na ven, který se může zašpinit
-  * 1x vlastní snídaně na pátek ráno
   * Dál co uznáš za vhodný
 * Nějaký devadesátkový rekvizity budou pro vaše postavy dodaný náma. Jestli ale máš pod postelí dobový Bravíčko nebo pogy, klidně to přibal a použij ve hře.
 
