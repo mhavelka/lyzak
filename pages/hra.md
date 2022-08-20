@@ -6,7 +6,7 @@ align: justify
 
 # Hra
 
-<a href="http://smich-mister.blog.cz/0905/fotoroman-0-1?fbclid=IwAR2MIH6L2R8gy-GTbozLuECkkVNILJ0bXW5K0VE_9jbEsguRsIFAy785jWA" target="_blank">
+<a href="https://theses.cz/id/psyxz1/BDP_Hlavat_asopis_Bravo_historie_a_vvoj_periodika_pro_mld.pdf" target="_blank">
     <img class="img-responsive" style="float: right; margin-left: 24px;" src="/assets/img/game/fotoroman.jpg" alt="Fotoromán" />
 </a>
 Kdybysme měli sfouknout popis Lyžáku v pár slovech, použili bysme tyhle: trapnost, zakázaný ovoce, škobrtání a nostalgie.

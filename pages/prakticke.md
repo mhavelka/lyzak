@@ -6,11 +6,18 @@ align: justify
 
 # Praktické
 
-**Začátek:** 6. 2. 2020 ve 12:30 na ŽS Jeseník
+**Přihlašování:** od 14. do 28. září 2023 (pořadí přihlášených nerozhoduje)
 
-**Konec:** 9. 2. 2020 dopoledne na chatě Čertovy kameny poblíž Jeseníku
+**Cena:** 4 700,-
+* Víme, že je to docela darda, ale ceny energií a pronájmů šly skokově nahoru. S tím prostě nehnem. V ceně máš ale ubytko v penzionu, bus, skipasy, chlast a dobrý jídlo na celej víkend. Jediný, co si musíš sehnat je lyžařský vybavení.
+* Jestli seš vybranej/á, se dozvíš do 9. října a rovnou ti dáme aji vědět, koho hraješ. Cenu platí jenom ten, kdo je vybranej, a to nejpozději do konce října. Místa neplatičů budou poté obsazována dalšíma vhodnejma kandidátama.
+* Zaplacenej poplatek nevracíme. Prašule ti může vrátit náhradník, kterej zaplní tvoje místo. Propojení s náhradníkem zařídíme my.
 
-Na úvodní workshopy se sejdem ve 12:30 na <a href="https://goo.gl/maps/2PYwS2PDv7piHeZG8" target="_blank">ZŠ Jeseník, Průchodní 154</a>, kde strávíme i čtvrteční noc. V pátek ráno začne hra nástupem do autobusu, kterej nás odveze na lyžařskou chatu, na který se bude odehrávat zbytek larpu. Konečná je v sobotu večer a navážem nezbytnou poherní párty. Odjezd z chaty je naplánovanej na neděli dopoledne (auta budou cca 4km od chaty).
+**Začátek:** 9. 3. 2022 po poledni na ZŠ Kunvald.
+
+**Konec:** 11. 3. dopoledne na chatě Černá Voda v Orličkách.
+
+Na úvodní workshopy se sejdem na <a href="https://goo.gl/maps/PJCe9ZKjqAPF2m926" target="_blank">základce v Kunvaldu</a>, kde strávíme i čtvrteční noc. V pátek ráno začne hra nástupem do autobusu, kterej nás odveze na lyžařskou chatu, na který se bude odehrávat zbytek larpu. Konečná je v sobotu večer a navážem nezbytnou poherní párty. Odjezd z chaty je naplánovanej na neděli dopoledne.
 
 <div class="image--center__wrapper">
     <a href="https://www.youtube.com/watch?v=1A9-XyS0yyI" target="_blank">
@@ -35,7 +42,7 @@ Kouření na chatě je zakázaný. Mimo chatu je to cajk. Pokud se ti to hodí d
 Kromě orgů se budou na chatě vyskytovat i další lidi. Přinejmenším tam budou majitelé a nějaká obsluha, co vaří a roznáší jídlo, možná i nějaký hosti mimo nás (ale těch spíš minimum, protože chata není zas tak velká). Základní rada zní: nechovej se jako debžot - tj. nic neznič a dělej jen přiměřenej bordel odpovídající věku postav (oni tě stejně učitelé srovnaj do latě, když budeš dělat větší bugr). Učitelé ti řeknou, jakej program tě čeká a je základní pravidlo ty společný části programu (např. lyžování na svahu) neminout. Ve volným čase ale můžeš chodit i po blízkým okolí chaty a dělat tam, co uznaš za vhodný. Podrobnosti pořešíme během workshopů, ale celej Lyžák jedeš na vlastní nebezpečí, tak si na to mysli, vole.
 
 <div class="image--center__wrapper">
-    <a href="https://www.youtube.com/watch?v=UeXKjLl-9Do" target="_blank">
+    <a href="https://www.youtube.com/watch?v=1A9-XyS0yyI&t=599s" target="_blank">
             <img class="img-responsive center--image" src="/assets/img/practical/hovna.jpg" alt="TV Hovna" />
     </a>
 </div>
@@ -57,4 +64,4 @@ Na svahu, pokud klapne počasí, budeme za dva herní dny dvakrát (pokaždé na
 * Nějaký devadesátkový rekvizity budou pro vaše postavy dodaný náma. Jestli ale máš pod postelí dobový Bravíčko nebo pogy, klidně to přibal a použij ve hře.
 
 ## Kontakt
-Pokud nám chceš něco vzkázat nebo se na něco zeptat, napiš nám svoje trápeníčko na <a href="mailto:killiennalyzaku13@volny.cz">killiennalyzaku13@volny.cz</a>
+Pokud nám chceš něco vzkázat nebo se na něco zeptat, napiš nám svoje trápeníčko na <a href="mailto:baradoda@email.cz">baradoda@email.cz</a>
