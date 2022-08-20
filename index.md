@@ -5,11 +5,9 @@ title: Lyžák!
 
 # Larp o vašem lyžáku.
 
-Nostalgickej vejlet do školních let, kdy jsme nosili šusťáky, hráli flašku po večerce, cejtili se trapně na dydžině a dostávali ledovou sprchu na svahu i mimo něj..
+Nostalgickej vejlet do školních let, kdy jsme nosili šusťáky, hráli flašku po večerce, cejtili se trapně na dydžině a dostávali ledovou sprchu na svahu i mimo něj.  
 Vraťte se s náma do svýho mládí a okoštujte devadesátky!
 
-**Kdy: 6.-9.2.2020** (čtvrtek-neděle)  
-**Kde:** Severní Morava (přesné místo srazu včas zveřejníme)
 **Kdy: 9. - 12.3.2023** (čtvrtek-neděle)  
 **Kde:** Penzion <a href="https://www.penzioncernavoda.cz/" target="_blank">Černá Voda</a> v Orlických horách
 
