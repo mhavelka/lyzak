@@ -1,15 +1,15 @@
 [
     {
-        "name": "Lujza",
-        "age": "14",
-        "image": "lujza.jpg",
-        "description": "Hodně čte, kreslí, píše vlastní povídky a poslouchá metal. Její nejoblíbenější kapely jsou Nightwish a HIM. O larpech zatím nemá zdání, protože tráví poslední rok na základní škole, kde nemá moc kamarádů, kteří by ji rozuměli. Je dcera učitelky, šprtka a má nehezké akné, takže není oblíbená. Těší se, až vypadne na gympl a pak z ní bude archeoložka."
-    },
-    {
         "name": "Čiki",
         "age": "15",
         "image": "ciki.jpg",
         "description": "S cigárama přestal v devíti, ale začíná objevovat kouzlo kormy. Na zdi mu visí zvlněnej plakát Spice Girls a novej plakát s Catherine Zetou-Jones. Poslouchá Blind Guardian a Asonanci a po nocích, kdy jsou rodiče v práci, sjíždí horory. Do školy chodí pořád pozdě, protože neustále zaspává. Vyniká v literatuře a psaní omluvenek. Skládá milostnou poezii a má pocit, že se tím bude živit. Při poflakování po parcích na sídlišti si dává bacha, aby nesed na stříkačku."
+    },
+    {
+        "name": "Killien",
+        "age": "16",
+        "image": "killien.jpg",
+        "description": "Právě si zahrál svůj druhý larp a myslí, že je načase nadizajnovat svůj vlastní. Může za to Čiki, neb mu z nějakého důvodu asi věří nebo mu se mu už ten Asterion dělat nechtělo. Mimo to studuje pravidla DrD 1.6, ačkoliv je s nikým nehraje. Posloucháa Vypsanou Fixu, Volanty, Linkin Park a Avril Lavigne - jež vlastní originální CD (avril a linkiny). Na to, že pochází z Rožnova, do školy chodí do Valmezu (na 3. nejstarší české gymnázium v čr) zbytečně moc času tráví v Brně, Třebíči a Znojmě, za což můžou lidi z iKlubovny a Halahoje."
     },
     {
         "name": "Maník",
@@ -24,9 +24,15 @@
         "description": "Dříve trávila většinu času u koní, ale to jí teď přestalo bavit. Chce si najít nové kamarády. Proto začala chodit do divadelního kroužku, i když se hodně stydí. Kromě toho taky hodně čte a sní o tom, jaké to bude, až vypadne od rodičů. Nedávno tajně zkoušela s kamarádkou kouřit za obchodem a bylo to hustý, ale bojí se, že máma přijde na to, že jí tajně bere cigarety a bude mít průšvih. Poslouchá Maroon 5 a Enyu a vůbec netuší, co jsou to larpy."
     },
     {
-        "name": "Killien",
-        "age": "16",
-        "image": "killien.jpg",
-        "description": "Právě si zahrál svůj druhý larp a myslí, že je načase nadizajnovat svůj vlastní. Může za to Čiki, neb mu z nějakého důvodu asi věří nebo mu se mu už ten Asterion dělat nechtělo. Mimo to studuje pravidla DrD 1.6, ačkoliv je s nikým nehraje. Posloucháa Vypsanou Fixu, Volanty, Linkin Park a Avril Lavigne - jež vlastní originální CD (avril a linkiny). Na to, že pochází z Rožnova, do školy chodí do Valmezu (na 3. nejstarší české gymnázium v čr) zbytečně moc času tráví v Brně, Třebíči a Znojmě, za což můžou lidi z iKlubovny a Halahoje."
+        "name": "Viol",
+        "age": "17",
+        "image": "viol.jpg",
+        "description": "Vestibulum efficitur, orci in tristique tristique, nisi lectus commodo ipsum, consequat efficitur nisi enim sed felis. Proin et molestie ante. Vivamus ut dui eu massa efficitur maximus. Nullam ornare, massa eget laoreet venenatis, lacus quam iaculis purus, id aliquam sapien sem eu est. Nulla facilisi. Nunc tincidunt semper nibh, in consectetur enim maximus nec. "
+    },
+    {
+        "name": "Barča",
+        "age": "15",
+        "image": "barca.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies diam ut odio consectetur fringilla. Aliquam ullamcorper, odio sollicitudin ultricies pellentesque, ipsum nibh mollis elit, quis aliquam odio est quis urna. Ut ut facilisis magna. Etiam consequat volutpat purus, sed vulputate tortor vehicula nec."
     }
 ]
