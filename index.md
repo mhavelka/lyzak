@@ -10,6 +10,8 @@ Vraťte se s náma do svýho mládí a okoštujte devadesátky!
 
 **Kdy: 6.-9.2.2020** (čtvrtek-neděle)  
 **Kde:** Severní Morava (přesné místo srazu včas zveřejníme)
+**Kdy: 9. - 12.3.2023** (čtvrtek-neděle)  
+**Kde:** Penzion <a href="https://www.penzioncernavoda.cz/" target="_blank">Černá Voda</a> v Orlických horách
 
 <div class="image--center__wrapper" style="margin: 36px 0;">
     <img class="img-responsive center--image" src="/assets/img/snowman.gif" alt="Mixtape">
@@ -56,7 +58,7 @@ Vraťte se s náma do svýho mládí a okoštujte devadesátky!
 * Při výběru hráčů budem mezi přihlášenejma volit kombinaci, která bude z hlediska jejich preferencí (nebo schopností) nejlíp pasovat.
 
 
-Aby ti přihlašování neuteklo, sleduj nás na <a href="https://www.hofyland.cz/?club&klub=24588" target="_blank"><span style="text-decoration: line-through;">hofylandu</span></a>… teda na Fejsbíčku!
+Aby ti přihlašování neuteklo, sleduj nás na <a href="https://www.xchat.cz/" target="_blank"><span style="text-decoration: line-through;">xChatu</span></a>… teda na Fejsbíčku!
 
 <div class=".omepage--link__big--wrapper">
         <a href="https://www.facebook.com/Ly%C5%BE%C3%A1k-347695455890116/" target="_blank">
@@ -68,5 +70,7 @@ Aby ti přihlašování neuteklo, sleduj nás na <a href="https://www.hofyland.c
 * Petr “Čiki” Kuběnský
 * Lujza Kotryová
 * Michal “Maník” Havelka
-* Hana Kovářová
-* Zbyněk “Killien” Štajer
+* Hana "Fáňa" Kovářová
+* Milada "Violett" Váchová
+* Barča Ľuba
+* Lujza Kotryová
