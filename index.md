@@ -52,7 +52,7 @@ Vraťte se s náma do svýho mládí a okoštujte devadesátky!
 
 ## Chci! S kým se mám vyspat, abych se tam dostal?!
 * Ale no tak… co je to za prasečinky? V klídku si projdi web a jak si budeš jistej, že to chceš hrát, přihlaš se. A neboj, nebude to “kdo dřív přijde, ten dřív zaskóruje”!
-* Přihlašovat se můžeš vyplněním dotazníku, pomocí kterýho hráče vyberem. Přihlášky spouštíme <b>14.9. a poběží až do 28.9</b>. 9.10. už budeš vědět, jestli balit lyže.
+* Přihlašovat se můžeš vyplněním dotazníku, pomocí kterýho hráče vyberem. Přihlášky spouštíme <b>14.září a poběží až do 28.září</b>. 9.října už budeš vědět, jestli balit lyže.
 * Hráče budeme z poloviny losovat a z poloviny vybírat.
 
 

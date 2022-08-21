@@ -13,9 +13,9 @@ align: justify
 * Jestli seš vybranej/á, se dozvíš do 9. října a rovnou ti dáme aji vědět, koho hraješ. Cenu platí jenom ten, kdo je vybranej, a to nejpozději do konce října. Místa neplatičů budou poté obsazována dalšíma vhodnejma kandidátama.
 * Zaplacenej poplatek nevracíme. Prašule ti může vrátit náhradník, kterej zaplní tvoje místo. Propojení s náhradníkem zařídíme my.
 
-**Začátek:** 9. 3. 2022 po poledni na ZŠ Kunvald.
+**Začátek:** 9. 3. 2022 (středa) po poledni na ZŠ Kunvald.
 
-**Konec:** 11. 3. dopoledne na chatě Černá Voda v Orličkách.
+**Konec:** 11. 3. (neděle) dopoledne na chatě Černá Voda v Orličkách.
 
 Na úvodní workshopy se sejdem na <a href="https://goo.gl/maps/PJCe9ZKjqAPF2m926" target="_blank">základce v Kunvaldu</a>, kde strávíme i čtvrteční noc. V pátek ráno začne hra nástupem do autobusu, kterej nás odveze na lyžařskou chatu, na který se bude odehrávat zbytek larpu. Konečná je v sobotu večer a navážem nezbytnou poherní párty. Odjezd z chaty je naplánovanej na neděli dopoledne.
 
@@ -24,9 +24,6 @@ Na úvodní workshopy se sejdem na <a href="https://goo.gl/maps/PJCe9ZKjqAPF2m92
             <img class="img-responsive center--image" src="/assets/img/practical/cago-belo.jpg" alt="Čágo Bélo šilenci" />
     </a>
 </div>
-
-## Doprava
-Na místo se dá dostat jak vlakem, tak autem. K dispozici máme cca 10 parkovacích míst, příp. se dá parkovat do 500m od školy. Na samotnou chatu autobus nemusí vyjet, může nás tedy čekat šlapáníčko - batohy a lyže nám v takovém případě vezme rolba.
 
 ## Jídlo, chlast a cíga
 Během workshopů budem podávat véču v podobě studený kuchyně, ale zkus prosím stihnout čtvrteční oběd před srazem (příp. si vezmi sváču).  
@@ -42,13 +39,13 @@ Kouření na chatě je zakázaný. Mimo chatu je to cajk. Pokud se ti to hodí d
 Kromě orgů se budou na chatě vyskytovat i další lidi. Přinejmenším tam budou majitelé a nějaká obsluha, co vaří a roznáší jídlo, možná i nějaký hosti mimo nás (ale těch spíš minimum, protože chata není zas tak velká). Základní rada zní: nechovej se jako debžot - tj. nic neznič a dělej jen přiměřenej bordel odpovídající věku postav (oni tě stejně učitelé srovnaj do latě, když budeš dělat větší bugr). Učitelé ti řeknou, jakej program tě čeká a je základní pravidlo ty společný části programu (např. lyžování na svahu) neminout. Ve volným čase ale můžeš chodit i po blízkým okolí chaty a dělat tam, co uznaš za vhodný. Podrobnosti pořešíme během workshopů, ale celej Lyžák jedeš na vlastní nebezpečí, tak si na to mysli, vole.
 
 <div class="image--center__wrapper">
-    <a href="https://www.youtube.com/watch?v=1A9-XyS0yyI&t=599s" target="_blank">
+    <a href="https://www.youtube.com/watch?v=21A6dGIEu2k" target="_blank">
             <img class="img-responsive center--image" src="/assets/img/practical/hovna.jpg" alt="TV Hovna" />
     </a>
 </div>
 
 ## Jak je to s lyžováním
-Na svahu, pokud klapne počasí, budeme za dva herní dny dvakrát (pokaždé na 3-4 hodiny). Svah je relativně krátkej a žádnej velkej krpál a je u něj i malej vlek. Z toho plyne, že lyžování berem hlavně jako herní prvek, kterej vytváří zajímavej herní obsah. 
+Na svahu, pokud klapne počasí, budeme za dva herní dny dvakrát (pokaždé na 2-4 hodiny). Svah není žádnej velkej krpál a je u něj klasická kotva. Z toho plyne, že lyžování berem hlavně jako herní prvek, kterej vytváří zajímavej herní obsah. 
 
 ## S sebou
 * 1x lyže a lyžařskou výbavu. Čím starší, tím lepší (ale moderní lyže zásadně nevaděj).
