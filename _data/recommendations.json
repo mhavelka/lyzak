@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Sněženky a machři (film)",
+        "image": "snezenky_a_machri.jpg",
+        "description": "Je možný, že někdo z nás je ještě moc mladej, moc starej nebo moc blbej, že ještě neviděl Radka Brzobohatýho v károvanejch podkolenkách. Buď ho vidět chcete nebo ne, volbu nechávám raději na vás."
+    },
+    {
+        "name": "Devadesátky (film)",
+        "image": "devadesatky-movie.jpg",
+        "link": "https://www.csfd.cz/film/583251-devadesatky/prehled/",
+        "description": "Tento počin není ze sekce bizáru, je to seriózně dobrý dílko, který vám pomůže nacítit, co pohodoví kofři řeší. Seriózní inspirace na téma týnejdžejrství, skejtingku, prvních holek a dělání píčovin. Ve všech smyslech toho slova."
+    },
+    {
+        "name": "Freaks and Geeks (seriál)",
+        "image": "freaks_and_geeks.jpg",
+        "link": "https://www.csfd.cz/film/70231-machri-a-sprti/prehled/",
+        "description": "Navazuje na kus výš, pokud chete po dolízání zmrzliny schroupat ještě kornoutek. Je v něm víc rozdílnejch pasrů i borek, seroš navíc nabídne mnohem víc nuancí v jejich chování. Navíc v něm hraje James Franco, ten vám to prodá."
+    },
+    {
+        "name": "Nadměrné maličkosti: Hypnóza (seriál)",
+        "image": "nadmerne_malickosti.jpg",
+        "link": "https://www.ceskatelevize.cz/porady/1104873554-nadmerne-malickosti/20452216086/",
+        "description": "Asi největší zlato ze sekce bizáru, který je asi tak dobrý, jako když Čiki šňupe lajnu sněhu ze zábradlí. Chvíli se dusíte, pak to jdete zapít. Jestli vás nenaláká to, že tenhle kus vznikl ve stejném roce jako Snowboarďáci a hraje v něm Vojta Kotek i Jirka Mádl, pak už vás nenaláká nic. Naštěstí tohle dílo je stále dostupné ve vaší oblíbené <a href='https://www.ceskatelevize.cz/porady/1104873554-nadmerne-malickosti/20452216086/' target='_blank'>půjčovně VHS</a>."
+    },
+    {
+        "name": "Mix tape (hudba)",
+        "image": "mix_tape.jpg",
+        "link": "https://open.spotify.com/playlist/6Fkik6yPeSEzJ0ZTivMvcI",
+        "description": "Kazeta plných nejlepších pecek, který chcete sjíždět při cestě na fráninu. Je docela možný, že na dýze na chatě v jídelně by ji mohl někdo strčit do kazeťáku. Kdo si myslí, že N'Sync jsou teplí a Backstreeti nejlepší, má samozřejmě pravdu. Rozrolovat magnetickou pásku můžete <a href='https://open.spotify.com/playlist/6Fkik6yPeSEzJ0ZTivMvcI' target='_blank'>zde.</a>"
+    },
+    {
+        "name": "Devadesátky (stránka)",
+        "image": "devadesatky-fb.jpg",
+        "link": "https://www.facebook.com/puredevadesatky/",
+        "description": "Archiveček plný Jaromíra Jágra s žvýkačkou a Vladimíra Železného \"Dobrý den, pokud právě obědváte.\" Je to tak dobré jako procházet si s rodinou staré fotky, akorát že vůbec."
+    }
+]

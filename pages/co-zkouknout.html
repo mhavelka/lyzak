@@ -1,0 +1,20 @@
+---
+layout: default
+permalink: /co-zkouknout/
+---
+<h1 id="co-zkouknout">Co zkouknout</h1>
+
+<table class="recommendations--table">
+    {% for piece in site.data.recommendations %}
+    <tr>
+        <td class="recommendations--image">
+            <a href="{{piece.link}}" target="_blank"><img src="/assets/img/recommendations/{{piece.image}}" alt=""></a>
+        </td>
+        <td>
+            <p><b><a href="{{piece.link}}" target="_blank">{{piece.name}}</a></b></p>
+            <p>{{piece.description}}</p>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+

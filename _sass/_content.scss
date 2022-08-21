@@ -57,6 +57,23 @@ table {
   }
 }
 
+.recommendations--table {
+  text-align: left;
+  border: 0px transparent;
+  & td {
+    border: 0px transparent;
+    padding: 30px 8px 30px 0px;
+    vertical-align: top;
+  }
+  & .recommendations--image {
+    text-align: center;
+  }
+  & img {
+    vertical-align:top;
+    height: 200px;
+  }
+}
+
 .clothes--img {
   width: 728px;
 }
