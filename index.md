@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lyžák!
+title: Lyžák, je zpátky!
 ---
 
 # Larp o vašem lyžáku.
