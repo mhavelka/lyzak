@@ -61,4 +61,4 @@ Na svahu, pokud klapne počasí, budeme za dva herní dny dvakrát (pokaždé na
 * Nějaký devadesátkový rekvizity budou pro vaše postavy dodaný náma. Jestli ale máš pod postelí dobový Bravíčko nebo pogy, klidně to přibal a použij ve hře.
 
 ## Kontakt
-Pokud nám chceš něco vzkázat nebo se na něco zeptat, napiš nám svoje trápeníčko na <a href="mailto:baradoda@email.cz">baradoda@email.cz</a>
+Pokud nám chceš něco vzkázat nebo se na něco zeptat, napiš nám svoje trápeníčko na <a href="mailto:barczik92.lyzak@seznam.cz">barczik92.lyzak@seznam.cz</a>
