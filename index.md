@@ -66,7 +66,7 @@ Aby ti přihlašování neuteklo, sleduj nás na <a href="https://www.xchat.cz/"
 
 ## Lyžák pro tebe pečou tihle výrostci:
 * Petr “Čiki” Kuběnský
-* Lujza Kotryová
+* Zbyněk "Killien" Štajer
 * Michal “Maník” Havelka
 * Hana "Fáňa" Kovářová
 * Milada "Violett" Váchová
