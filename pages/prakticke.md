@@ -6,14 +6,14 @@ align: justify
 
 # Praktické
 
-**Přihlašování:** od 14. do 28. září 2023 (pořadí přihlášených nerozhoduje)
+**Přihlašování:** od 14. do 28. září 2022 (pořadí přihlášených nerozhoduje)
 
 **Cena:** 4 700,-
 * Víme, že je to docela darda, ale ceny energií a pronájmů šly skokově nahoru. S tím prostě nehnem. V ceně máš ale ubytko v penzionu, bus, skipasy, chlast a dobrý jídlo na celej víkend. Jediný, co si musíš sehnat je lyžařský vybavení.
 * Jestli seš vybranej/á, se dozvíš do 9. října a rovnou ti dáme aji vědět, koho hraješ. Cenu platí jenom ten, kdo je vybranej, a to nejpozději do konce října. Místa neplatičů budou poté obsazována dalšíma vhodnejma kandidátama.
 * Zaplacenej poplatek nevracíme. Prašule ti může vrátit náhradník, kterej zaplní tvoje místo. Propojení s náhradníkem zařídíme my.
 
-**Začátek:** 9. 3. 2022 (středa) po poledni na ZŠ Kunvald.
+**Začátek:** 9. 3. 2023 (středa) po poledni na ZŠ Kunvald.
 
 **Konec:** 11. 3. (neděle) dopoledne na chatě Černá Voda v Orličkách.
 
