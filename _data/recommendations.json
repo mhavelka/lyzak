@@ -30,6 +30,18 @@
         "description": "Kazeta plná nejlepších pecek, který chcete sjíždět při cestě na fráninu. Je docela možný, že na dýze v jídelně by ji mohl někdo strčit do kazeťáku. Kdo si myslí, že N'Sync jsou teplí a Backstreeti nejlepší, má samozřejmě pravdu. Roztočit magnetickou pásku můžete <a href='https://open.spotify.com/playlist/6Fkik6yPeSEzJ0ZTivMvcI' target='_blank'>zde.</a>"
     },
     {
+        "name": "4teens: Lyžák (seriál)",
+        "image": "4teens.jpg",
+        "link": "https://www.csfd.cz/film/281963-4teens/576994-lyzak/hraji/",
+        "description": "V pátým díle tohohle seriálu sice nenasajete dobovou atmošku devadesátek, ale jinak je to učebnicovej příklad toho, jak náš Lyžák vypadá. Je tam crash na instruktora snowboardu, láska k Lucce Vondráčkový (která už ale překvapivě nepředstírá, že je teen), flaška i schovávání opilý spolužačky před učitelama. A zásadní moudro: “Když seš stará, třeba po vejšce, tak už bereš všechno, co je."
+    },
+    {
+        "name": "Snídaňový klub (film)",
+        "image": "snidanovy-klub.jpg",
+        "link": "https://www.csfd.cz/film/4573-snidanovy-klub/prehled/",
+        "description": "Klasika z osmdesátek nejenže docela hezky opisuje to, jak si představujem “stmelovací” dějovej oblouk Lyžáku, ale má taky bezvadnou sbírku klasickejch typů postav. Je tam rebel bez příčiny, princeznička, šprt, machr i divná gothka."
+    },
+    {
         "name": "Devadesátky (stránka)",
         "image": "devadesatky-fb.jpg",
         "link": "https://www.facebook.com/puredevadesatky/",
