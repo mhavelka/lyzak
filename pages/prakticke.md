@@ -13,7 +13,7 @@ align: justify
 * Jestli seš vybranej/á, se dozvíš do 9. října a rovnou ti dáme aji vědět, koho hraješ. Cenu platí jenom ten, kdo je vybranej, a to nejpozději do konce října. Místa neplatičů budou poté obsazována dalšíma vhodnejma kandidátama.
 * Zaplacenej poplatek nevracíme. Prašule ti může vrátit náhradník, kterej zaplní tvoje místo. Propojení s náhradníkem zařídíme my.
 
-**Začátek:** 9. 3. 2023 (středa) po poledni na ZŠ Kunvald.
+**Začátek:** 9. 3. 2023 (čtvrtek) po poledni na ZŠ Kunvald.
 
 **Konec:** 11. 3. (neděle) dopoledne na chatě Černá Voda v Orličkách.
 
