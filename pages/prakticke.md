@@ -11,7 +11,7 @@ align: justify
 **Cena:** 4 700,-
 * Víme, že je to docela darda, ale ceny energií a pronájmů šly skokově nahoru. S tím prostě nehnem. V ceně máš ale ubytko v penzionu, bus, skipasy, chlast a dobrý jídlo na celej víkend. Jediný, co si musíš sehnat je lyžařský vybavení.
 * Jestli seš vybranej/á, se dozvíš do 9. října a rovnou ti dáme aji vědět, koho hraješ. Cenu platí jenom ten, kdo je vybranej, a to nejpozději do konce října. Místa neplatičů budou poté obsazována dalšíma vhodnejma kandidátama.
-* Zaplacenej poplatek nevracíme. Prašule ti může vrátit náhradník, kterej zaplní tvoje místo. Propojení s náhradníkem zařídíme my.
+* Zaplacenej poplatek účastníkům nevracíme. S ohledem na napjatej rozpočet to nejde jinak. Pokud zjistíte víc než 14 dní před hrou, že nemůžete jet, pokusíme se za vás najít náhradníka a propojíme ho s vámi, abyste se domluvili na případným vrácení peněz. Storno poplatek 14 dnů a míň před začátkem hry je plná částka.
 
 **Začátek:** 9. 3. 2023 (čtvrtek) po poledni na ZŠ Kunvald.
 
