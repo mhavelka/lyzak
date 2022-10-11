@@ -6,10 +6,8 @@ align: justify
 
 # Praktické
 
-Přihlašování spustíme ve **středu 14.9. a poběží až do 28.9**. Místo tohoto textu tu pak bude dotazník, který vyplníš.
+Přihlašování je bohužel již uzavřený. Ale znáte to, těšíte se na Lyžák, dostanete žloutenku a místo vás jede náhradník z 9.B. Jestli chodíš do vedlejší třídy, určitě vyplň:
 
-9.10. už budeš vědět, jestli balit lyže.
+<h2 style="text-align: center;"><a href="https://docs.google.com/forms/d/e/1FAIpQLScr526tVaVxLSMW4R1clwZZaH9oTk5YNU9BRKC-l_gnyKVmWg/viewform" target="_blank">Náhradnický dotazník</a></h2>
 
-<div class="image--center__wrapper">
-    <img class="img-responsive center--image" src="/assets/img/signup/bear-playing-guitar.gif" alt="Bude párty na sněhu!" />
-</div>
+Vsaď boty, že tu žloutenku určo někdo dostane. Nebo někomu umře babička. A na pohřbu se bejt musí.
