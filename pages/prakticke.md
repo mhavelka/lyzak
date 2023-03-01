@@ -13,9 +13,9 @@ align: justify
 * Jestli seš vybranej/á, se dozvíš do 9. října a rovnou ti dáme aji vědět, koho hraješ. Cenu platí jenom ten, kdo je vybranej, a to nejpozději do konce října. Místa neplatičů budou poté obsazována dalšíma vhodnejma kandidátama.
 * Zaplacenej poplatek účastníkům nevracíme. S ohledem na napjatej rozpočet to nejde jinak. Pokud zjistíte víc než 14 dní před hrou, že nemůžete jet, pokusíme se za vás najít náhradníka a propojíme ho s vámi, abyste se domluvili na případným vrácení peněz. Storno poplatek 14 dnů a míň před začátkem hry je plná částka.
 
-**Začátek:** 9. 3. 2023 (čtvrtek) po poledni na ZŠ Kunvald.
+**Začátek:** 9. 3. 2023 (čtvrtek) ve 12:30 na ZŠ Kunvald.
 
-**Konec:** 11. 3. (neděle) dopoledne na chatě Černá Voda v Orličkách.
+**Konec:** 11. 3. (neděle) v 10:00 na chatě Černá Voda v Orličkách.
 
 Na úvodní workshopy se sejdem na <a href="https://goo.gl/maps/PJCe9ZKjqAPF2m926" target="_blank">základce v Kunvaldu</a>, kde strávíme i čtvrteční noc. V pátek ráno začne hra nástupem do autobusu, kterej nás odveze na lyžařskou chatu, na který se bude odehrávat zbytek larpu. Konečná je v sobotu večer a navážem nezbytnou poherní párty. Odjezd z chaty je naplánovanej na neděli dopoledne.
 
